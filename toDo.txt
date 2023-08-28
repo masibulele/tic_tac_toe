@@ -1,0 +1,12 @@
+Create a tic tac toe
+
+1. create game logic
+1.1 create a player 
+1.2 check if there is winner
+1.3 ask for play move as input
+1.3 make player move
+1.4 make next player play
+1.5 list of possible player moves
+1.6 check if move is still availabe
+
+2. create graphical text interface
